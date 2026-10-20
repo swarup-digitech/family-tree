@@ -1,0 +1,19 @@
+{
+  "name": "न्यौपाने वंशावली · Neopane Family Tree",
+  "short_name": "वंशावली",
+  "description": "न्यौपाने परिवारको वंशावली — Neopane Family Tree",
+  "lang": "ne",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1F2A44",
+  "theme_color": "#1F2A44",
+  "categories": ["lifestyle", "social"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
