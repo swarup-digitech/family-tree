@@ -1,6 +1,6 @@
 /* Keeps the front page and icons on the phone so the app opens instantly.
    The family data itself always comes fresh from Google (it is not stored here). */
-const CACHE = 'vamshavali-v1';
+const CACHE = 'vamshavali-v3';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'privacy.html',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png'];
 
